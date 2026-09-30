@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jacky
+# Olá, eu sou a Jacky 👩🏻‍💻! 👋
 
 **`Desenvolvedora FullStack`**
 
