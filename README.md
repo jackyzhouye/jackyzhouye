@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Jacky, tenho 19 anos e sou natural de São paulo. Concluí o ensino médio nem Bragança paulista na escola Maraes Jose Moraes Salles, estou cursando Análise e Desenvolvimento de Sistemas no (IFSP)Instituto Federal de São paulo . Sou apaixonada por tecnologia.
+Me chamo Jacky, tenho 19 anos e sou natural de São paulo. Concluí o ensino médio nem Bragança paulista na escola Maraes Jose Moraes Salles, estou cursando Análise e Desenvolvimento de Sistemas no (IFSP)Instituto Federal de São paulo . Sou apaixonada por tecnologia,não trabalho com TI no momento mas pretendo entrar nesta área.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
